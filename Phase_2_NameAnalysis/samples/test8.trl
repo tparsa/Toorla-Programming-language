@@ -1,0 +1,53 @@
+entry class Test inherits Test:
+    public field entr int;
+    public field temp bool;
+    public field length bool;
+
+    public function main() returns int :
+        var length = 2;
+    end
+    public function temp2() returns int :
+        var temp2 = 2;
+    end
+end
+
+class sss inherits sss2:
+    public field temp int;
+    public field temp2 int;
+    public function temp2() returns int :
+        var temp2 = 2;
+    end
+
+    public function temp3() returns int :
+        var temp2 = 2;
+        begin
+            var temp2 = 2;
+        end
+        if (a==2)
+            var temp2 = 4;
+        elif(a==3)begin
+            var temp2 = 4;
+            var sc = 4;
+            var sc = 1;
+        end
+        else
+            var temp2 = 4;
+        while(a==4)
+            var temp2 = 4;
+
+    end
+
+end
+
+class sss2 inherits sss3:
+    public field a int;
+    public function b() returns int :end
+    public field a int;
+    public function b() returns int :end
+end
+
+class sss3 inherits Test:
+end
+
+class aaa inherits aaa:end
+class aaa inherits aaa:end

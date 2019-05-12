@@ -1,0 +1,23 @@
+entry class MainClass:
+    function main() returns int:
+        return new MyClass().myMethod( 1 , true , new int[ 2 ] );
+    end
+
+
+end
+
+class Father inherits Grand:
+    field a int;
+end
+
+class Son inherits Father:
+    field b int;
+end
+
+class Grand inherits Son:
+    field c int;
+    field a int;
+    function X (a : int) returns x:
+        return a;
+    end
+end

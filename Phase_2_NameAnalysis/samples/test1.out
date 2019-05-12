@@ -1,0 +1,8 @@
+Error:Line:2:‫‪Definition‬‬ ‫‪of‬‬ ‫‪length‬‬ ‫‪as‬‬ ‫‪field‬‬ ‫‪of‬‬ ‫‪a‬‬ ‫‪class‬‬
+Error:Line:2:‫‪Definition‬‬ ‫‪of‬‬ ‫‪length‬‬ ‫‪as‬‬ ‫‪field‬‬ ‫‪of‬‬ ‫‪a‬‬ ‫‪class‬‬
+Error:Line:2:Redefinition of Field length1
+Error:Line:2:‫‪Definition‬‬ ‫‪of‬‬ ‫‪length‬‬ ‫‪as‬‬ ‫‪field‬‬ ‫‪of‬‬ ‫‪a‬‬ ‫‪class‬‬
+‬‬Error:Line:15:Redefinition of Local Variable a1 in current scope
+‬‬Error:Line:15:Redefinition of Local Variable a1 in current scope
+‬‬Error:Line:17:Redefinition of Local Variable a in current scope
+Error:Line:23:Redefinition of Field temp_length

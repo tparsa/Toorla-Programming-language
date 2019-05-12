@@ -1,0 +1,12 @@
+Error:Line:2:Redefinition of Field entr
+Error:Line:3:Redefinition of Field temp
+Error:Line:4:Definition of length as field of a class
+Error:Line:4:Definition of length as field of a class
+Error:Line:6:Redefinition of Method main
+Error:Line:9:Redefinition of Method temp2
+Error:Line:15:Redefinition of Field temp
+Error:Line:17:Redefinition of Method temp2
+Error:Line:31:Redefinition of Local Variable sc in current scope
+Error:Line:45:Redefinition of Field a
+Error:Line:46:Redefinition of Method b
+Error:Line:53:Redefinition of Class aaa

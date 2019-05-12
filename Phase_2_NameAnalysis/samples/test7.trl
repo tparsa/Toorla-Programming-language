@@ -1,0 +1,36 @@
+entry class Test inherits Test2:
+    public field a int;
+    public field temp bool;
+
+    public function main() returns int :
+        var length = 2;
+    end
+    public function temp2() returns int :
+        var temp2 = 2;
+    end
+end
+
+class sss inherits Test3:
+    public field temp int;
+    public field temp2 int;
+    public function temp2() returns int :
+        var temp2 = 2;
+    end
+
+    public function temp3() returns int :
+        var temp2 = 2;
+        begin
+            var temp2 = 2;
+        end
+        if (a==2)
+            var temp2 = 4;
+        elif(a==3)
+            var temp2 = 4;
+        else
+            var temp2 = 4;
+        while(a==4)
+            var temp2 = 4;
+
+    end
+
+end
