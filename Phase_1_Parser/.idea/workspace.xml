@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Toorla.g4" line="363" />
+    <bookmark url="file://$PROJECT_DIR$/Toorla.g4" line="776" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77649849-38b2-4678-9d08-140b1f7105f5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Toorla" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6086956">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ToorlaCompiler.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="16" selection-start-line="16" selection-end-line="16" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Toorla.g4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="280">
+                  <caret line="979" column="13" selection-start-line="979" selection-start-column="13" selection-end-line="979" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#17#671#1" expanded="true" />
+                    <element signature="e#673#699#1" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/toorla/ast/Program.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/toorla/visitor/TreePrinter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2040">
+                  <caret line="143" column="5" selection-start-line="143" selection-start-column="5" selection-end-line="143" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Toorla.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="39" selection-start-column="39" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gen/ToorlaParser.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="48501">
+                  <caret line="3090" column="17" selection-start-line="3090" selection-start-column="17" selection-end-line="3090" selection-end-column="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#6515#6516#0" expanded="true" />
+                    <element signature="e#6539#6540#0" expanded="true" />
+                    <element signature="e#6589#6590#0" expanded="true" />
+                    <element signature="e#6613#6614#0" expanded="true" />
+                    <element signature="e#7401#7402#0" expanded="true" />
+                    <element signature="e#7463#7464#0" expanded="true" />
+                    <element signature="e#7522#7523#0" expanded="true" />
+                    <element signature="e#7585#7586#0" expanded="true" />
+                    <element signature="e#7656#7657#0" expanded="true" />
+                    <element signature="e#7693#7694#0" expanded="true" />
+                    <element signature="e#10253#10254#0" expanded="true" />
+                    <element signature="e#10297#10298#0" expanded="true" />
+                    <element signature="e#10339#10340#0" expanded="true" />
+                    <element signature="e#10396#10397#0" expanded="true" />
+                    <element signature="e#10556#10557#0" expanded="true" />
+                    <element signature="e#10593#10594#0" expanded="true" />
+                    <element signature="e#14288#14289#0" expanded="true" />
+                    <element signature="e#14332#14333#0" expanded="true" />
+                    <element signature="e#14374#14375#0" expanded="true" />
+                    <element signature="e#14431#14432#0" expanded="true" />
+                    <element signature="e#14597#14598#0" expanded="true" />
+                    <element signature="e#14634#14635#0" expanded="true" />
+                    <element signature="e#17676#17677#0" expanded="true" />
+                    <element signature="e#17739#17740#0" expanded="true" />
+                    <element signature="e#17800#17801#0" expanded="true" />
+                    <element signature="e#17864#17865#0" expanded="true" />
+                    <element signature="e#17924#17925#0" expanded="true" />
+                    <element signature="e#17986#17987#0" expanded="true" />
+                    <element signature="e#18045#18046#0" expanded="true" />
+                    <element signature="e#18108#18109#0" expanded="true" />
+                    <element signature="e#20892#20893#0" expanded="true" />
+                    <element signature="e#20929#20930#0" expanded="true" />
+                    <element signature="e#23943#23944#0" expanded="true" />
+                    <element signature="e#24005#24006#0" expanded="true" />
+                    <element signature="e#24241#24242#0" expanded="true" />
+                    <element signature="e#24292#24293#0" expanded="true" />
+                    <element signature="e#24336#24337#0" expanded="true" />
+                    <element signature="e#24394#24395#0" expanded="true" />
+                    <element signature="e#24475#24476#0" expanded="true" />
+                    <element signature="e#24512#24513#0" expanded="true" />
+                    <element signature="e#27841#27842#0" expanded="true" />
+                    <element signature="e#27888#27889#0" expanded="true" />
+                    <element signature="e#27994#27995#0" expanded="true" />
+                    <element signature="e#28038#28039#0" expanded="true" />
+                    <element signature="e#28074#28075#0" expanded="true" />
+                    <element signature="e#28124#28125#0" expanded="true" />
+                    <element signature="e#28159#28160#0" expanded="true" />
+                    <element signature="e#28210#28211#0" expanded="true" />
+                    <element signature="e#28325#28326#0" expanded="true" />
+                    <element signature="e#28372#28373#0" expanded="true" />
+                    <element signature="e#28459#28460#0" expanded="true" />
+                    <element signature="e#28496#28497#0" expanded="true" />
+                    <element signature="e#33078#33079#0" expanded="true" />
+                    <element signature="e#33134#33135#0" expanded="true" />
+                    <element signature="e#33181#33182#0" expanded="true" />
+                    <element signature="e#33238#33239#0" expanded="true" />
+                    <element signature="e#33353#33354#0" expanded="true" />
+                    <element signature="e#33400#33401#0" expanded="true" />
+                    <element signature="e#33481#33482#0" expanded="true" />
+                    <element signature="e#33518#33519#0" expanded="true" />
+                    <element signature="e#36871#36872#0" expanded="true" />
+                    <element signature="e#36926#36927#0" expanded="true" />
+                    <element signature="e#36971#36972#0" expanded="true" />
+                    <element signature="e#37027#37028#0" expanded="true" />
+                    <element signature="e#37102#37103#0" expanded="true" />
+                    <element signature="e#37139#37140#0" expanded="true" />
+                    <element signature="e#39490#39491#0" expanded="true" />
+                    <element signature="e#39554#39555#0" expanded="true" />
+                    <element signature="e#39614#39615#0" expanded="true" />
+                    <element signature="e#39680#39681#0" expanded="true" />
+                    <element signature="e#39753#39754#0" expanded="true" />
+                    <element signature="e#39790#39791#0" expanded="true" />
+                    <element signature="e#42715#42716#0" expanded="true" />
+                    <element signature="e#42763#42764#0" expanded="true" />
+                    <element signature="e#42881#42882#0" expanded="true" />
+                    <element signature="e#42929#42930#0" expanded="true" />
+                    <element signature="e#43045#43046#0" expanded="true" />
+                    <element signature="e#43101#43102#0" expanded="true" />
+                    <element signature="e#43148#43149#0" expanded="true" />
+                    <element signature="e#43205#43206#0" expanded="true" />
+                    <element signature="e#43245#43246#0" expanded="true" />
+                    <element signature="e#43301#43302#0" expanded="true" />
+                    <element signature="e#43675#43676#0" expanded="true" />
+                    <element signature="e#43721#43722#0" expanded="true" />
+                    <element signature="e#43849#43850#0" expanded="true" />
+                    <element signature="e#43913#43914#0" expanded="true" />
+                    <element signature="e#44068#44069#0" expanded="true" />
+                    <element signature="e#44105#44106#0" expanded="true" />
+                    <element signature="e#53720#53721#0" expanded="true" />
+                    <element signature="e#53783#53784#0" expanded="true" />
+                    <element signature="e#53901#53902#0" expanded="true" />
+                    <element signature="e#53949#53950#0" expanded="true" />
+                    <element signature="e#54067#54068#0" expanded="true" />
+                    <element signature="e#54115#54116#0" expanded="true" />
+                    <element signature="e#54303#54304#0" expanded="true" />
+                    <element signature="e#54359#54360#0" expanded="true" />
+                    <element signature="e#54406#54407#0" expanded="true" />
+                    <element signature="e#54463#54464#0" expanded="true" />
+                    <element signature="e#54837#54838#0" expanded="true" />
+                    <element signature="e#54883#54884#0" expanded="true" />
+                    <element signature="e#55040#55041#0" expanded="true" />
+                    <element signature="e#55077#55078#0" expanded="true" />
+                    <element signature="e#61585#61586#0" expanded="true" />
+                    <element signature="e#61641#61642#0" expanded="true" />
+                    <element signature="e#61681#61682#0" expanded="true" />
+                    <element signature="e#61737#61738#0" expanded="true" />
+                    <element signature="e#61771#61772#0" expanded="true" />
+                    <element signature="e#61824#61825#0" expanded="true" />
+                    <element signature="e#61878#61879#0" expanded="true" />
+                    <element signature="e#61941#61942#0" expanded="true" />
+                    <element signature="e#61973#61974#0" expanded="true" />
+                    <element signature="e#62025#62026#0" expanded="true" />
+                    <element signature="e#62215#62216#0" expanded="true" />
+                    <element signature="e#62270#62271#0" expanded="true" />
+                    <element signature="e#62315#62316#0" expanded="true" />
+                    <element signature="e#62371#62372#0" expanded="true" />
+                    <element signature="e#62687#62688#0" expanded="true" />
+                    <element signature="e#62724#62725#0" expanded="true" />
+                    <element signature="e#69552#69553#0" expanded="true" />
+                    <element signature="e#69609#69610#0" expanded="true" />
+                    <element signature="e#69678#69679#0" expanded="true" />
+                    <element signature="e#69715#69716#0" expanded="true" />
+                    <element signature="e#71625#71626#0" expanded="true" />
+                    <element signature="e#71682#71683#0" expanded="true" />
+                    <element signature="e#71762#71763#0" expanded="true" />
+                    <element signature="e#71799#71800#0" expanded="true" />
+                    <element signature="e#73804#73805#0" expanded="true" />
+                    <element signature="e#73860#73861#0" expanded="true" />
+                    <element signature="e#73907#73908#0" expanded="true" />
+                    <element signature="e#73964#73965#0" expanded="true" />
+                    <element signature="e#74034#74035#0" expanded="true" />
+                    <element signature="e#74071#74072#0" expanded="true" />
+                    <element signature="e#76113#76114#0" expanded="true" />
+                    <element signature="e#76161#76162#0" expanded="true" />
+                    <element signature="e#76419#76420#0" expanded="true" />
+                    <element signature="e#76463#76464#0" expanded="true" />
+                    <element signature="e#76511#76512#0" expanded="true" />
+                    <element signature="e#76567#76568#0" expanded="true" />
+                    <element signature="e#76614#76615#0" expanded="true" />
+                    <element signature="e#76671#76672#0" expanded="true" />
+                    <element signature="e#76786#76787#0" expanded="true" />
+                    <element signature="e#76833#76834#0" expanded="true" />
+                    <element signature="e#76917#76918#0" expanded="true" />
+                    <element signature="e#76954#76955#0" expanded="true" />
+                    <element signature="e#80916#80917#0" expanded="true" />
+                    <element signature="e#80978#80979#0" expanded="true" />
+                    <element signature="e#81034#81035#0" expanded="true" />
+                    <element signature="e#81098#81099#0" expanded="true" />
+                    <element signature="e#81172#81173#0" expanded="true" />
+                    <element signature="e#81209#81210#0" expanded="true" />
+                    <element signature="e#83181#83182#0" expanded="true" />
+                    <element signature="e#83242#83243#0" expanded="true" />
+                    <element signature="e#83348#83349#0" expanded="true" />
+                    <element signature="e#83392#83393#0" expanded="true" />
+                    <element signature="e#83440#83441#0" expanded="true" />
+                    <element signature="e#83496#83497#0" expanded="true" />
+                    <element signature="e#83543#83544#0" expanded="true" />
+                    <element signature="e#83600#83601#0" expanded="true" />
+                    <element signature="e#83681#83682#0" expanded="true" />
+                    <element signature="e#83718#83719#0" expanded="true" />
+                    <element signature="e#86732#86733#0" expanded="true" />
+                    <element signature="e#86794#86795#0" expanded="true" />
+                    <element signature="e#86903#86904#0" expanded="true" />
+                    <element signature="e#86948#86949#0" expanded="true" />
+                    <element signature="e#86996#86997#0" expanded="true" />
+                    <element signature="e#87052#87053#0" expanded="true" />
+                    <element signature="e#87099#87100#0" expanded="true" />
+                    <element signature="e#87156#87157#0" expanded="true" />
+                    <element signature="e#87234#87235#0" expanded="true" />
+                    <element signature="e#87271#87272#0" expanded="true" />
+                    <element signature="e#90404#90405#0" expanded="true" />
+                    <element signature="e#90461#90462#0" expanded="true" />
+                    <element signature="e#90696#90697#0" expanded="true" />
+                    <element signature="e#90733#90734#0" expanded="true" />
+                    <element signature="e#94104#94105#0" expanded="true" />
+                    <element signature="e#94161#94162#0" expanded="true" />
+                    <element signature="e#98207#98208#0" expanded="true" />
+                    <element signature="e#98263#98264#0" expanded="true" />
+                    <element signature="e#98310#98311#0" expanded="true" />
+                    <element signature="e#98367#98368#0" expanded="true" />
+                    <element signature="e#98479#98480#0" expanded="true" />
+                    <element signature="e#98525#98526#0" expanded="true" />
+                    <element signature="e#98640#98641#0" expanded="true" />
+                    <element signature="e#98687#98688#0" expanded="true" />
+                    <element signature="e#103806#103807#0" expanded="true" />
+                    <element signature="e#103862#103863#0" expanded="true" />
+                    <element signature="e#103909#103910#0" expanded="true" />
+                    <element signature="e#103966#103967#0" expanded="true" />
+                    <element signature="e#104081#104082#0" expanded="true" />
+                    <element signature="e#104128#104129#0" expanded="true" />
+                    <element signature="e#104237#104238#0" expanded="true" />
+                    <element signature="e#104282#104283#0" expanded="true" />
+                    <element signature="e#104391#104392#0" expanded="true" />
+                    <element signature="e#104436#104437#0" expanded="true" />
+                    <element signature="e#104522#104523#0" expanded="true" />
+                    <element signature="e#104559#104560#0" expanded="true" />
+                    <element signature="e#109738#109739#0" expanded="true" />
+                    <element signature="e#109783#109784#0" expanded="true" />
+                    <element signature="e#109898#109899#0" expanded="true" />
+                    <element signature="e#109945#109946#0" expanded="true" />
+                    <element signature="e#110034#110035#0" expanded="true" />
+                    <element signature="e#110071#110072#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/FieldCall.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="28" selection-start-line="28" selection-end-line="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/MethodCall.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="28" selection-start-line="28" selection-end-line="28" />
+                  <folding>
+                    <element signature="e#794#795#0" expanded="true" />
+                    <element signature="e#821#822#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/ArrayCall.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="459">
+                  <caret line="39" selection-start-line="39" selection-end-line="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/binaryExpression/Minus.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mc</find>
+      <find>methodCall</find>
+      <find>statement</find>
+      <find>dot_ex</find>
+      <find>while</find>
+      <find>method_call_recur</find>
+      <find>Method_call_recursionContext</find>
+      <find>new</find>
+      <find>plus</find>
+      <find>dot_expre</find>
+      <find>NOT)</find>
+      <find>addition</find>
+      <find>Plus</find>
+      <find>NOT</find>
+      <find>dot_expres</find>
+      <find>assign</find>
+      <find>NEW</find>
+      <find>andexp</find>
+      <find>op.getChar</find>
+      <find>method</find>
+      <find>method_call</find>
+      <find>array</find>
+      <find>arrayCall</find>
+      <find>new_bracket</find>
+      <find>dot_expression_with_method_call</find>
+      <find>Arra</find>
+      <find>semi_expression</find>
+      <find>expression</find>
+      <find>semi_express</find>
+      <find>expression_factor</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>RPAREN</replace>
+      <replace>NUMBER</replace>
+      <replace>field_definition</replace>
+      <replace>import toorla.</replace>
+      <replace>new_array_class_expr</replace>
+      <replace>tmp_mc</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TOORLA.g4" />
+        <option value="$PROJECT_DIR$/src/ToorlaCompiler.java" />
+        <option value="$PROJECT_DIR$/src/toorla/ast/expression/Self.java" />
+        <option value="$PROJECT_DIR$/src/toorla/ast/expression/NewArray.java" />
+        <option value="$PROJECT_DIR$/gen/ToorlaParser.java" />
+        <option value="$PROJECT_DIR$/src/toorla/visitor/TreePrinter.java" />
+        <option value="$PROJECT_DIR$/Toorla.g4" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="gen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
+              <item name="binaryExpression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+              <item name="statement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+              <item name="statement" type="462c0819:PsiDirectoryNode" />
+              <item name="localVarStats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toorla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="toorla" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+              <item name="singleType" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554928885880" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/test2.trl" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Toorla" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Toorla" />
+      <module name="Toorla" />
+      <option name="PROGRAM_PARAMETERS" value="mySample.trl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77649849-38b2-4678-9d08-140b1f7105f5" name="Default Changelist" comment="" />
+      <created>1554212321045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554212321045</updated>
+      <workItem from="1554212324455" duration="13782000" />
+      <workItem from="1554295974072" duration="16651000" />
+      <workItem from="1554324795220" duration="1579000" />
+      <workItem from="1554326410444" duration="4491000" />
+      <workItem from="1554384752690" duration="6481000" />
+      <workItem from="1554392106527" duration="9683000" />
+      <workItem from="1554468093879" duration="24045000" />
+      <workItem from="1554559806973" duration="3799000" />
+      <workItem from="1554582263720" duration="1816000" />
+      <workItem from="1554655996064" duration="31000" />
+      <workItem from="1554737075180" duration="16414000" />
+      <workItem from="1554921062522" duration="5574000" />
+      <workItem from="1554927749767" duration="1295000" />
+      <workItem from="1556187121256" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105777000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49839228" visible="true" weight="0.19189766" />
+      <window_info id="Structure" order="1" sideWeight="0.5016077" side_tool="true" weight="0.17217484" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5016077" side_tool="true" weight="0.17217484" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2654388" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tool Output" order="9" sideWeight="0.49946696" weight="0.1744312" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="13" weight="0.26760563" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/binaryExpression/And.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/binaryExpression/Or.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/types/singleType/BoolType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/types/singleType/UserDefinedType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/Identifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/unaryExpression/Neg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/unaryExpression/Not.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/Skip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/Assign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/binaryExpression/NotEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/binaryExpression/BinaryExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/unaryExpression/UnaryExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/value/BoolValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/value/IntValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/value/StringValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/Self.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/Continue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/returnStatement/Return.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/types/singleType/SingleType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/types/singleType/StringType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/Declaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/NewClassInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/TypedVariableDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/VariableDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/DecStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/IncStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/types/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/Conditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/localVarDecs/ParameterDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/classDecs/classMembersDecs/MethodDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/types/singleType/IntType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/PrintLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/While.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/classDecs/ClassDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/classDecs/classMembersDecs/FieldDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/declaration/classDecs/classMembersDecs/ClassMemberDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/NewArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/localVarStats/LocalVarDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/statement/localVarStats/LocalVarsDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToorlaCompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/visitor/TreePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="143" column="5" selection-start-line="143" selection-start-column="5" selection-end-line="143" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Toorla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/ToorlaParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48501">
+          <caret line="3090" column="17" selection-start-line="3090" selection-start-column="17" selection-end-line="3090" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6515#6516#0" expanded="true" />
+            <element signature="e#6539#6540#0" expanded="true" />
+            <element signature="e#6589#6590#0" expanded="true" />
+            <element signature="e#6613#6614#0" expanded="true" />
+            <element signature="e#7401#7402#0" expanded="true" />
+            <element signature="e#7463#7464#0" expanded="true" />
+            <element signature="e#7522#7523#0" expanded="true" />
+            <element signature="e#7585#7586#0" expanded="true" />
+            <element signature="e#7656#7657#0" expanded="true" />
+            <element signature="e#7693#7694#0" expanded="true" />
+            <element signature="e#10253#10254#0" expanded="true" />
+            <element signature="e#10297#10298#0" expanded="true" />
+            <element signature="e#10339#10340#0" expanded="true" />
+            <element signature="e#10396#10397#0" expanded="true" />
+            <element signature="e#10556#10557#0" expanded="true" />
+            <element signature="e#10593#10594#0" expanded="true" />
+            <element signature="e#14288#14289#0" expanded="true" />
+            <element signature="e#14332#14333#0" expanded="true" />
+            <element signature="e#14374#14375#0" expanded="true" />
+            <element signature="e#14431#14432#0" expanded="true" />
+            <element signature="e#14597#14598#0" expanded="true" />
+            <element signature="e#14634#14635#0" expanded="true" />
+            <element signature="e#17676#17677#0" expanded="true" />
+            <element signature="e#17739#17740#0" expanded="true" />
+            <element signature="e#17800#17801#0" expanded="true" />
+            <element signature="e#17864#17865#0" expanded="true" />
+            <element signature="e#17924#17925#0" expanded="true" />
+            <element signature="e#17986#17987#0" expanded="true" />
+            <element signature="e#18045#18046#0" expanded="true" />
+            <element signature="e#18108#18109#0" expanded="true" />
+            <element signature="e#20892#20893#0" expanded="true" />
+            <element signature="e#20929#20930#0" expanded="true" />
+            <element signature="e#23943#23944#0" expanded="true" />
+            <element signature="e#24005#24006#0" expanded="true" />
+            <element signature="e#24241#24242#0" expanded="true" />
+            <element signature="e#24292#24293#0" expanded="true" />
+            <element signature="e#24336#24337#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+            <element signature="e#24475#24476#0" expanded="true" />
+            <element signature="e#24512#24513#0" expanded="true" />
+            <element signature="e#27841#27842#0" expanded="true" />
+            <element signature="e#27888#27889#0" expanded="true" />
+            <element signature="e#27994#27995#0" expanded="true" />
+            <element signature="e#28038#28039#0" expanded="true" />
+            <element signature="e#28074#28075#0" expanded="true" />
+            <element signature="e#28124#28125#0" expanded="true" />
+            <element signature="e#28159#28160#0" expanded="true" />
+            <element signature="e#28210#28211#0" expanded="true" />
+            <element signature="e#28325#28326#0" expanded="true" />
+            <element signature="e#28372#28373#0" expanded="true" />
+            <element signature="e#28459#28460#0" expanded="true" />
+            <element signature="e#28496#28497#0" expanded="true" />
+            <element signature="e#33078#33079#0" expanded="true" />
+            <element signature="e#33134#33135#0" expanded="true" />
+            <element signature="e#33181#33182#0" expanded="true" />
+            <element signature="e#33238#33239#0" expanded="true" />
+            <element signature="e#33353#33354#0" expanded="true" />
+            <element signature="e#33400#33401#0" expanded="true" />
+            <element signature="e#33481#33482#0" expanded="true" />
+            <element signature="e#33518#33519#0" expanded="true" />
+            <element signature="e#36871#36872#0" expanded="true" />
+            <element signature="e#36926#36927#0" expanded="true" />
+            <element signature="e#36971#36972#0" expanded="true" />
+            <element signature="e#37027#37028#0" expanded="true" />
+            <element signature="e#37102#37103#0" expanded="true" />
+            <element signature="e#37139#37140#0" expanded="true" />
+            <element signature="e#39490#39491#0" expanded="true" />
+            <element signature="e#39554#39555#0" expanded="true" />
+            <element signature="e#39614#39615#0" expanded="true" />
+            <element signature="e#39680#39681#0" expanded="true" />
+            <element signature="e#39753#39754#0" expanded="true" />
+            <element signature="e#39790#39791#0" expanded="true" />
+            <element signature="e#42715#42716#0" expanded="true" />
+            <element signature="e#42763#42764#0" expanded="true" />
+            <element signature="e#42881#42882#0" expanded="true" />
+            <element signature="e#42929#42930#0" expanded="true" />
+            <element signature="e#43045#43046#0" expanded="true" />
+            <element signature="e#43101#43102#0" expanded="true" />
+            <element signature="e#43148#43149#0" expanded="true" />
+            <element signature="e#43205#43206#0" expanded="true" />
+            <element signature="e#43245#43246#0" expanded="true" />
+            <element signature="e#43301#43302#0" expanded="true" />
+            <element signature="e#43675#43676#0" expanded="true" />
+            <element signature="e#43721#43722#0" expanded="true" />
+            <element signature="e#43849#43850#0" expanded="true" />
+            <element signature="e#43913#43914#0" expanded="true" />
+            <element signature="e#44068#44069#0" expanded="true" />
+            <element signature="e#44105#44106#0" expanded="true" />
+            <element signature="e#53720#53721#0" expanded="true" />
+            <element signature="e#53783#53784#0" expanded="true" />
+            <element signature="e#53901#53902#0" expanded="true" />
+            <element signature="e#53949#53950#0" expanded="true" />
+            <element signature="e#54067#54068#0" expanded="true" />
+            <element signature="e#54115#54116#0" expanded="true" />
+            <element signature="e#54303#54304#0" expanded="true" />
+            <element signature="e#54359#54360#0" expanded="true" />
+            <element signature="e#54406#54407#0" expanded="true" />
+            <element signature="e#54463#54464#0" expanded="true" />
+            <element signature="e#54837#54838#0" expanded="true" />
+            <element signature="e#54883#54884#0" expanded="true" />
+            <element signature="e#55040#55041#0" expanded="true" />
+            <element signature="e#55077#55078#0" expanded="true" />
+            <element signature="e#61585#61586#0" expanded="true" />
+            <element signature="e#61641#61642#0" expanded="true" />
+            <element signature="e#61681#61682#0" expanded="true" />
+            <element signature="e#61737#61738#0" expanded="true" />
+            <element signature="e#61771#61772#0" expanded="true" />
+            <element signature="e#61824#61825#0" expanded="true" />
+            <element signature="e#61878#61879#0" expanded="true" />
+            <element signature="e#61941#61942#0" expanded="true" />
+            <element signature="e#61973#61974#0" expanded="true" />
+            <element signature="e#62025#62026#0" expanded="true" />
+            <element signature="e#62215#62216#0" expanded="true" />
+            <element signature="e#62270#62271#0" expanded="true" />
+            <element signature="e#62315#62316#0" expanded="true" />
+            <element signature="e#62371#62372#0" expanded="true" />
+            <element signature="e#62687#62688#0" expanded="true" />
+            <element signature="e#62724#62725#0" expanded="true" />
+            <element signature="e#69552#69553#0" expanded="true" />
+            <element signature="e#69609#69610#0" expanded="true" />
+            <element signature="e#69678#69679#0" expanded="true" />
+            <element signature="e#69715#69716#0" expanded="true" />
+            <element signature="e#71625#71626#0" expanded="true" />
+            <element signature="e#71682#71683#0" expanded="true" />
+            <element signature="e#71762#71763#0" expanded="true" />
+            <element signature="e#71799#71800#0" expanded="true" />
+            <element signature="e#73804#73805#0" expanded="true" />
+            <element signature="e#73860#73861#0" expanded="true" />
+            <element signature="e#73907#73908#0" expanded="true" />
+            <element signature="e#73964#73965#0" expanded="true" />
+            <element signature="e#74034#74035#0" expanded="true" />
+            <element signature="e#74071#74072#0" expanded="true" />
+            <element signature="e#76113#76114#0" expanded="true" />
+            <element signature="e#76161#76162#0" expanded="true" />
+            <element signature="e#76419#76420#0" expanded="true" />
+            <element signature="e#76463#76464#0" expanded="true" />
+            <element signature="e#76511#76512#0" expanded="true" />
+            <element signature="e#76567#76568#0" expanded="true" />
+            <element signature="e#76614#76615#0" expanded="true" />
+            <element signature="e#76671#76672#0" expanded="true" />
+            <element signature="e#76786#76787#0" expanded="true" />
+            <element signature="e#76833#76834#0" expanded="true" />
+            <element signature="e#76917#76918#0" expanded="true" />
+            <element signature="e#76954#76955#0" expanded="true" />
+            <element signature="e#80916#80917#0" expanded="true" />
+            <element signature="e#80978#80979#0" expanded="true" />
+            <element signature="e#81034#81035#0" expanded="true" />
+            <element signature="e#81098#81099#0" expanded="true" />
+            <element signature="e#81172#81173#0" expanded="true" />
+            <element signature="e#81209#81210#0" expanded="true" />
+            <element signature="e#83181#83182#0" expanded="true" />
+            <element signature="e#83242#83243#0" expanded="true" />
+            <element signature="e#83348#83349#0" expanded="true" />
+            <element signature="e#83392#83393#0" expanded="true" />
+            <element signature="e#83440#83441#0" expanded="true" />
+            <element signature="e#83496#83497#0" expanded="true" />
+            <element signature="e#83543#83544#0" expanded="true" />
+            <element signature="e#83600#83601#0" expanded="true" />
+            <element signature="e#83681#83682#0" expanded="true" />
+            <element signature="e#83718#83719#0" expanded="true" />
+            <element signature="e#86732#86733#0" expanded="true" />
+            <element signature="e#86794#86795#0" expanded="true" />
+            <element signature="e#86903#86904#0" expanded="true" />
+            <element signature="e#86948#86949#0" expanded="true" />
+            <element signature="e#86996#86997#0" expanded="true" />
+            <element signature="e#87052#87053#0" expanded="true" />
+            <element signature="e#87099#87100#0" expanded="true" />
+            <element signature="e#87156#87157#0" expanded="true" />
+            <element signature="e#87234#87235#0" expanded="true" />
+            <element signature="e#87271#87272#0" expanded="true" />
+            <element signature="e#90404#90405#0" expanded="true" />
+            <element signature="e#90461#90462#0" expanded="true" />
+            <element signature="e#90696#90697#0" expanded="true" />
+            <element signature="e#90733#90734#0" expanded="true" />
+            <element signature="e#94104#94105#0" expanded="true" />
+            <element signature="e#94161#94162#0" expanded="true" />
+            <element signature="e#98207#98208#0" expanded="true" />
+            <element signature="e#98263#98264#0" expanded="true" />
+            <element signature="e#98310#98311#0" expanded="true" />
+            <element signature="e#98367#98368#0" expanded="true" />
+            <element signature="e#98479#98480#0" expanded="true" />
+            <element signature="e#98525#98526#0" expanded="true" />
+            <element signature="e#98640#98641#0" expanded="true" />
+            <element signature="e#98687#98688#0" expanded="true" />
+            <element signature="e#103806#103807#0" expanded="true" />
+            <element signature="e#103862#103863#0" expanded="true" />
+            <element signature="e#103909#103910#0" expanded="true" />
+            <element signature="e#103966#103967#0" expanded="true" />
+            <element signature="e#104081#104082#0" expanded="true" />
+            <element signature="e#104128#104129#0" expanded="true" />
+            <element signature="e#104237#104238#0" expanded="true" />
+            <element signature="e#104282#104283#0" expanded="true" />
+            <element signature="e#104391#104392#0" expanded="true" />
+            <element signature="e#104436#104437#0" expanded="true" />
+            <element signature="e#104522#104523#0" expanded="true" />
+            <element signature="e#104559#104560#0" expanded="true" />
+            <element signature="e#109738#109739#0" expanded="true" />
+            <element signature="e#109783#109784#0" expanded="true" />
+            <element signature="e#109898#109899#0" expanded="true" />
+            <element signature="e#109945#109946#0" expanded="true" />
+            <element signature="e#110034#110035#0" expanded="true" />
+            <element signature="e#110071#110072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/FieldCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/MethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/binaryExpression/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toorla/ast/expression/ArrayCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toorla.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="979" column="13" selection-start-line="979" selection-start-column="13" selection-end-line="979" selection-end-column="13" />
+          <folding>
+            <element signature="e#17#671#1" expanded="true" />
+            <element signature="e#673#699#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Toorla</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>antlr-runtime-4.7.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

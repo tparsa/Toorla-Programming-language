@@ -1,0 +1,7 @@
+entry class X:
+    public function m() returns int:
+		M[2].m[0].o = 2;
+        while(i < M.me.lenght)
+			return (mtree.node.traverse()).value.value[12].val - 12 + new cl2().x;
+    end
+end
